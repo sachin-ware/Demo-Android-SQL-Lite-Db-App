@@ -1,0 +1,3 @@
+Android SQLite Database sample App:
+
+This application is created for demo of android application interaction with database.
